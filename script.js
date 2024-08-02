@@ -13,7 +13,7 @@ document.querySelector("h1").style.backgroundColor = "lightblue";
 //Create at least one element using createElement.
 //Use appendChild and/or prepend to add new elements to the DOM.
 const para = document.createElement("p");
-para.innerText = "Please meet the criterea";
+para.innerText = "All Done? Press All Done! ~ Technical Issues? Please reload page or contact us at (800) 000-0000";
 
 document.body.appendChild(para);
 
